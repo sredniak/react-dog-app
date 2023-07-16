@@ -1,0 +1,19 @@
+.generator {
+    display: grid;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  
+  .generator > img {
+    margin-top: 40px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    box-shadow: 4px 4px 10px 1px #9e9e9e;
+  }
+  
+  .generator > button {
+    width:  200px;
+    height: 50px;
+    margin: 0 auto;
+  }
